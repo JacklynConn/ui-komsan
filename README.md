@@ -1,6 +1,5 @@
 # ui_komsan
-
-A new Flutter project.
+A new Flutter project. Install App: https://play.google.com/store/apps/details?id=com.it04e.komsanapp
 
 ## Getting Started
 
